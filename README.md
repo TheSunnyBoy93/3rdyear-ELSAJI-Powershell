@@ -3,7 +3,7 @@
 
 ## Administration scriptée de Windows Active Directory.
 
-[Contexte du projet](https://github.com/TheSunnyBoy93/Gestion-Utilisateurs-Powershell/blob/main/projet_infra.pdf)
+[Contexte du projet](https://github.com/TheSunnyBoy93/Gestion-Utilisateurs-Powershell/blob/main/Contexte/projet_infra.pdf)
 
 ## Expertise PowerShell
 Création d'un AD pricipal et secondaire (Sur ESX 6.7 Dell PowerEdge R410). 
