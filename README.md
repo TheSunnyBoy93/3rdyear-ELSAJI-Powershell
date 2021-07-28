@@ -1,5 +1,8 @@
-# Gestion-Utilisateurs-Powershell
+# Projet Infrastructure Windows
 
+Projet infrastructure Windows pour lequel le groupe ELSAJI a créé un script permettant de gérer un Active Directory.
+
+![alt text](https://github.com/TheSunnyBoy93/3rdyear-ELSAJI-PA/blob/main/Logo/logo%20presta.png)
 
 ## Administration scriptée de Windows Active Directory.
 
